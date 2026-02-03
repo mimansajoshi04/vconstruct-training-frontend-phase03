@@ -1,9 +1,11 @@
 import './App.css'
+import Header from './components/Header'
 
 function App() {
   return (
     <>
-      <h2>This is App.js</h2>
+      <Header heading="React Fundamentals Training"/>
+      <p>Welcome to React</p>
     </>
   )
 }
