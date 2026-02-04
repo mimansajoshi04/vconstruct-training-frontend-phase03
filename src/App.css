@@ -1,5 +1,6 @@
 #root {
-  max-width: 1280px;
+  /* this is added in px to set up a layout constraint because that would strictly restrict the layout size. */
+  max-width: 1280px; 
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
