@@ -1,9 +1,10 @@
-import './App.css'
+import UserDetails from './components/Users/UserDetails';
 
 function App() {
   return (
     <>
-      <h2>This is App.js</h2>
+      <h2>Question 03 Output</h2>
+      <UserDetails/>
     </>
   )
 }
