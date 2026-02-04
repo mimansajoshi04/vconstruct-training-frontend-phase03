@@ -1,11 +1,8 @@
-import './App.css'
+import QuestionTwo from "./components/Tasks/Question2";
 
 function App() {
-  return (
-    <>
-      <h2>This is App.js</h2>
-    </>
-  )
+
+  return <QuestionTwo/>;
 }
 
 export default App;
