@@ -1,13 +1,12 @@
-import './App.css'
-import Header from './components/Header'
+import "./App.css";
+import Reconcilation from "./learning/Reconcilation";
 
 function App() {
   return (
     <>
-      <Header heading="React Fundamentals Training"/>
-      <p>Welcome to React</p>
+      <Reconcilation />
     </>
-  )
+  );
 }
 
 export default App;
